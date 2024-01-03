@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarthak0714
 - 👀 I’m interested in WEB3 & AI
-- 🌱 I’m currently learning Web Development an ML
+- 🌱 I’m currently learning Go & Rust
 - 💞️ I’m looking to collaborate on some fun projects to learn more
 - 📫 How to reach me my twitter @sarthakt0714
 
