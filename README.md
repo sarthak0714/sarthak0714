@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak0714&label=Profile%20views&color=ff7070&style=flat" alt="sarthak0714" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak0714" alt="sarthak0714" /></a> </p>
-
 - 🔭 I’m currently working on [Fast-Bank](https://github.com/sarthak0714/Fast-Bank)
 
 - 🌱 I’m currently learning **Golang and ML**
