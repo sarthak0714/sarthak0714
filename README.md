@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak0714&label=Profile%20views&color=ff7070&style=flat" alt="sarthak0714" /> </p>
 
-- 🔭 I’m currently working on [Fast-Bank](https://github.com/sarthak0714/Fast-Bank)
+- 🔭 I’m currently working on [tictactoe svr using Actor Model](https://github.com/sarthak0714/ttt)
 
 - 🌱 I’m currently learning **Golang and ML**
 
