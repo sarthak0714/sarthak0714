@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sarthak.t1403@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1PTR6j5u5e5VmhWycgxj7X_gboIBtdzss/view?usp=drive_link](https://drive.google.com/file/d/1PTR6j5u5e5VmhWycgxj7X_gboIBtdzss/view?usp=drive_link)
+- 📄 Resume [Link](https://drive.google.com/file/d/1PTR6j5u5e5VmhWycgxj7X_gboIBtdzss/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
