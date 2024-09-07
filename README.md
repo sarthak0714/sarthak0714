@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sarthak Tanpure</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate Developer from India </h3>
+<h2 align="center"><a href="https://sarthaktanpure.me" target="_blank">Portfolio ✨✨<a></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak0714&label=Profile%20views&color=ff7070&style=flat" alt="sarthak0714" /> </p>
 
-- 🔭 I’m currently working on [Certisure Go Backend](https://github.com/sarthak0714/certisure-go)
+- 🔭 I’m currently working on [Fast Bank](https://github.com/sarthak0714/Fast-Bank)
 
 - 🌱 I’m currently learning **Golang and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sarthak0174](https://github.com/sarthak0174)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Go, Backend, System Design**
 
 - 📫 How to reach me **sarthak.t1403@gmail.com**
 
-- 📄 Resume [Link](https://drive.google.com/file/d/1PTR6j5u5e5VmhWycgxj7X_gboIBtdzss/view?usp=drive_link)
+- 📄 Resume [Link](https://https://github.com/sarthak0714/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
